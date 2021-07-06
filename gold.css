@@ -31,4 +31,17 @@ section{
 }
 .center{
 text-align: center;
+
 }
+.nice{
+    width: 300px;
+    border-radius: 20px;
+}
+.magenta-color{
+    color:magenta;
+}
+.food{
+text-align: center;
+background-color: rebeccapurple;
+}
+   
